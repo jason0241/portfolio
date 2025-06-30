@@ -1,0 +1,6 @@
+[submodule "nvme-spdk"]
+	path = nvme-spdk
+	url = https://github.com/jason0241/nvme-spdk-benchmark.git
+[submodule "i2c_driver"]
+	path = i2c_driver
+	url = https://github.com/jason0241/i2c-eeprom-driver.git
