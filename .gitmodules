@@ -4,3 +4,12 @@
 [submodule "i2c_driver"]
 	path = i2c_driver
 	url = https://github.com/jason0241/i2c-eeprom-driver.git
+[submodule "psoc6_freertos"]
+	path = psoc6_freertos
+	url = https://github.com/jason0241/psoc6-freertos-dualcore.git
+[submodule "serdes_eye"]
+	path = serdes_eye
+	url = https://github.com/jason0241/pcie-gen3-serdes-eye.git
+[submodule "mctp_cli"]
+	path = mctp_cli
+	url = https://github.com/jason0241/mctp-smbus-cli.git
